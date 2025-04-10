@@ -31,6 +31,6 @@ I’m currently learning how to analyze data, build simple machine learning mode
 
 ## 🔗 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-2eueu.dev@gmail.com-red?logo=gmail)](mailto:highlightyj@gmail.com )  
+[![Email](https://img.shields.io/badge/Email-highlightyj@gmail.com-red?logo=gmail)](mailto:highlightyj@gmail.com)  
 [![Notion Portfolio](https://img.shields.io/badge/Notion-Portfolio-black?logo=notion)](https://flame-enquiry-41f.notion.site/2eueu_-a26b17b455cc4c5ebd84ce290c45c17d?pvs=4)  
 [![GitHub](https://img.shields.io/badge/GitHub-2eueu_-181717?logo=github)](https://github.com/2eueu)
