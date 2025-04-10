@@ -3,6 +3,8 @@
 I'm **Ga-eun Lee**, a student majoring in Artificial Intelligence at Sookmyung Women’s University.  
 I’m currently learning how to analyze data, build simple machine learning models, and create dashboards — all while being a huge football fan! ⚽
 
+
+
 ## ⚽ About Me
 
 - 📚 Studying Artificial Intelligence and data analysis
@@ -10,11 +12,17 @@ I’m currently learning how to analyze data, build simple machine learning mode
 - 🧠 Curious about how football clubs use data for performance and scouting
 - 💬 Trying to combine what I learn in class with what I love outside it: football!
 
+
+  
+
 ## 🛠️ Tools I'm Learning
 
 - **Languages**: Python (Pandas, Matplotlib, scikit-learn), R (basic), Java, JavaScript
 - **Tools**: Streamlit, Tableau, MySQL, Excel, Git/GitHub
 - **Learning now**: Web scraping, AWS (S3, Lambda)
+
+
+
 
 ## 📌 Goals
 
@@ -22,12 +30,18 @@ I’m currently learning how to analyze data, build simple machine learning mode
 - Learn how to visualize stats from matches and players
 - Maybe one day... contribute to a football club's insights team!
 
+
+
+
 ## ⚽ Football Things I Love
 
 - Watching tactical breakdowns and full-match analyses  
 - Exploring stats on FBref, Transfermarkt, and Understat  
 - Collecting football merch (especially Spurs stuff!)  
 - Talking about football 24/7 even if no one asks
+
+
+
 
 ## 🔗 Connect with me
 
