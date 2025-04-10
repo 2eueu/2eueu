@@ -45,4 +45,4 @@ I love football, especially Tottenham Hotspur 🐓, and I’m slowly building up
 
 - Complete my first football data project  
 - Learn how to use dashboards to tell football stories with numbers  
-- One day... work in football data or insights at a club like Tottenham Hotspur!
+- One day... work in football data or insights at a club 
