@@ -24,6 +24,7 @@ I love football, especially Tottenham Hotspur 🐓, and I’m slowly building up
 <br />
 
 ## 📚 My Tech Stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2eueu&layout=compact&theme=tokyonight&langs_count=6)
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
