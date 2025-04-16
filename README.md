@@ -5,8 +5,8 @@ I love football, especially Tottenham Hotspur 🐓, and I’m slowly building up
 
 <p><strong>highlightyj@gmail.com</strong></p>
 
-<a href="https://flame-enquiry-41f.notion.site/2eueu_-a26b17b455cc4c5ebd84ce290c45c17d?pvs=4">
- <img src="https://img.shields.io/badge/Notion-Portfolio-black?logo=notion&style=for-the-badge" height="28px" />
+<a href="https://2eueu.wordpress.com/">
+ <img src="https://img.shields.io/badge/WordPress-Portfolio-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="28px" />
 </a>
 <a href="https://github.com/2eueu">
  <img src="https://img.shields.io/badge/GitHub-2eueu_-181717?logo=github&style=for-the-badge" height="28px" />
