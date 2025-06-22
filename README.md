@@ -1,4 +1,4 @@
-<h1>Hello, World! </h1>
+<h1>Hello </h1>
 
 <p><strong>I'm Ga-eun Lee</strong>, an Artificial Intelligence major at Sookmyung Women's University 🇰🇷<br />
 I love football, especially Tottenham Hotspur 🐓, and I’m slowly building up my skills in data analysis and visualization.</p>
