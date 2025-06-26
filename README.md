@@ -12,7 +12,7 @@ I love football, especially Tottenham Hotspur 🐓, and I’m slowly building up
  <img src="https://img.shields.io/badge/GitHub-2eueu_-181717?logo=github&style=for-the-badge" height="28px" />
 </a>
 <a href="https://www.linkedin.com/in/gaeun-lee-005067370/">
- <img src="https://img.shields.io/badge/LinkedIn-gaeun-lee-005067370?logo=wordpress&logoColor=white&style=for-the-badge" height="28px" />
+ <img src="https://img.shields.io/badge/LinkedIn-gaeun-lee-005067370?logo=liknedin&logoColor=white&style=for-the-badge" height="28px" />
 </a>
 <br /><br />
 
