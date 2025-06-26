@@ -15,9 +15,11 @@ I love football, especially Tottenham Hotspur 🐓, and I’m slowly building up
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="28px" />
 </a>
 
-<br /><br /><br />
+<br />
+<br />
+<br />
 
-<h2>⚽ Football Things I Love</h2>
+<h2> Football Things I Love</h2>
 
 - Watching tactical breakdowns and full-match analyses  
 - Exploring stats on FBref, Transfermarkt, and Understat  
